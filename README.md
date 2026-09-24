@@ -26,11 +26,4 @@ Data Cleansing, Normalization & Structuring:
 Validated data integrity, normalized text fields across disparate naming conventions, and compiled clean, production-ready master Excel worksheets.
 ---
 📂 Repository Structure
-```text
-├── 01_GCC_Data/
-│   └── GCC data.xlsx              # 1,658 verified trade profiles across GCC countries
-├── 02_Gulf_Food_Data/
-│   └── Gulf Food Data.xlsx        # 77 targeted food & FMCG buyer profiles
-├── 03_South_Africa_Data/
-│   └── South Africa data.xlsx     # 778 South African import/trade entities
-└── README.md                      # Project documentation and execution framework
+
